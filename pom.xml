@@ -20,8 +20,8 @@
 	<distributionManagement>
 		
 	       <repository>
-		<id>releases</id>
-		<url>http://10.138.90.57:8081/nexus/content/repositories/releases</url>
+		<id>thirdparty</id>
+		<url>http://10.138.90.57:8081/nexus/content/repositories/thirdparty/</url>
 	       </repository>
 	      <snapshotRepository>
 	            <id>snapshots</id>
