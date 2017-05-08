@@ -20,9 +20,9 @@
 	<distributionManagement>
 		
 	       <repository>
-		<id>releases</id>
-		<name>Releases</name>
-		<url>http://localhost:8081/nexus/content/repositories/releases</url>
+		<id>thirdparty</id>
+		<name>3rd party</name>
+		<url>http://localhost:8081/nexus/content/repositories/thirdparty/</url>
 	       </repository>
 	      <snapshotRepository>
 	            <id>snapshots</id>
